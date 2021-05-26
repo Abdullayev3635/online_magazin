@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //
+
         viewModel = MainViewModel()
         viewModel.productData.observe(this, Observer {
             viewModel.insertAllProducts2DB(it)
