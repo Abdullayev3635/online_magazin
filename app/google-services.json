@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689939539984",
+    "project_id": "onlinemagazin-678fc",
+    "storage_bucket": "onlinemagazin-678fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689939539984:android:d90372c1a15c0cc1814295",
+        "android_client_info": {
+          "package_name": "com.abdullayev.onlinemagazin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689939539984-6f9v4bflgjdgq99kjp2kbu23s47e22ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsCQx1F5r4NOywxgoM0N1teDqUXoC3WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689939539984-6f9v4bflgjdgq99kjp2kbu23s47e22ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
